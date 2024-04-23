@@ -1,0 +1,4 @@
+name = McMojave-cursors
+description = Hyprcursor port of McMojave Cursors (inspired by MacOS cursors)
+version = 0.1
+cursors_direcotry = hyprcursor

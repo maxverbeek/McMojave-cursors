@@ -15,7 +15,7 @@
       in {
         devShell = pkgs.mkShell {
           name = "devshell";
-          packages = [ pkgs.hyprcursor ];
+          packages = [ pkgs.hyprcursor pkgs.xcur2png ];
         };
       });
 }
